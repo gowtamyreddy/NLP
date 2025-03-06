@@ -62,9 +62,6 @@ The model is trained on text data from **Harry Potter and the Sorcerer’s Stone
 
   **"Harry at Hogwarts his hands had broken a sound of people whooshing and the movements of magic..."**
 
-  (The model is trying to learn and predict words based on what it has seen!)
-
 ---
 
-This breakdown simplifies the process so that beginners can understand **what’s happening at each stage**. 🚀😊
 
