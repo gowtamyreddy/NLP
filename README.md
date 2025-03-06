@@ -1,3 +1,16 @@
+# **Using RNN to Predict the Next Word in a Sentence**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowtamyreddy/NLP/blob/main/RNN.ipynb)
+
+## **Introduction**
+Language modeling is an important task in **Natural Language Processing (NLP)**, and one powerful approach to this is using **Recurrent Neural Networks (RNNs)**. 
+
+This project focuses on **predicting the next word** in a sentence using an **RNN-based text generation model**. Given a sequence of words as input, the model learns from patterns in a dataset and tries to generate the most probable next word.
+
+The model is trained on text data from **Harry Potter and the Sorcerer’s Stone**, allowing it to learn language structures and generate meaningful text. 
+
+
+
 ## **Steps in the Project**
 
 ### **1. Load the Data and Preprocess It**
