@@ -1,4 +1,4 @@
-# **Using RNN to Predict the Next Word in a Sentence**
+# **Using RNN to Predict the next few sentences in a Paragraph**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowtamyreddy/NLP/blob/main/RNN.ipynb)
 
