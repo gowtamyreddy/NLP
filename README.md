@@ -89,9 +89,9 @@ print(generated_text)
 
 You can open and run each notebook in Google Colab using the following links:
 
-- **RNN-Based Model**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowtamyreddy/NLP/blob/main/RNN.ipynb)
-- **LSTM-Based Model**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowtamyreddy/NLP/blob/main/LSTM.ipynb)
-- **Transformer-Based Model**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gowtamyreddy/NLP/blob/main/transformer.ipynb)
+- **RNN-Based Model**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gowtamyreddy/NLP/tree/main/RNN)
+- **LSTM-Based Model**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gowtamyreddy/NLP/tree/main/LSTM)
+- **Transformer-Based Model**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gowtamyreddy/NLP/tree/main/Transformer)
 
 ## Future Enhancements
 
